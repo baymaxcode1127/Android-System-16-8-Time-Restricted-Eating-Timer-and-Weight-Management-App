@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 -->
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E55A2B</color>
+    <color name="accent">#4CAF50</color>
+
+    <!-- 背景色 -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- 文字颜色 -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- 断食/进食颜色 -->
+    <color name="fasting_color">#FF6B35</color>
+    <color name="fasting_light">#FFF0E8</color>
+    <color name="eating_color">#4CAF50</color>
+    <color name="eating_light">#E8F5E9</color>
+
+    <!-- 进度条背景 -->
+    <color name="progress_bg">#E0E0E0</color>
+
+    <!-- 图表颜色 -->
+    <color name="chart_line">#FF6B35</color>
+    <color name="chart_point">#E55A2B</color>
+    <color name="chart_grid">#EEEEEE</color>
+    <color name="chart_ref_line">#4CAF50</color>
+</resources>

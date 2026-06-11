@@ -1,0 +1,4 @@
+// Top-level build file for 16:8 轻断食助手
+plugins {
+    id("com.android.application") version "8.2.0" apply false
+}

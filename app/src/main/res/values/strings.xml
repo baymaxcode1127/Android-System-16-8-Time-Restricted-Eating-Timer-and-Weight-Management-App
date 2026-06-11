@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">16:8 轻断食</string>
+
+    <!-- 计时页面 -->
+    <string name="tab_timer">计时</string>
+    <string name="tab_stats">统计</string>
+    <string name="start_fasting">开始断食</string>
+    <string name="reset">重置</string>
+    <string name="state_fasting">断食中</string>
+    <string name="state_eating">进食窗口</string>
+    <string name="state_idle">准备开始</string>
+    <string name="fasting_remaining">剩余断食时间</string>
+    <string name="eating_remaining">剩余进食时间</string>
+
+    <!-- 统计页面 -->
+    <string name="success_days">轻断食成功天数</string>
+    <string name="day_unit">天</string>
+    <string name="weight_record">体重记录</string>
+    <string name="add_weight">记录体重</string>
+    <string name="date_hint">日期 (yyyy-MM-dd)</string>
+    <string name="weight_hint">体重 (kg)</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="initial_weight">初始体重</string>
+    <string name="weight_change">体重变化</string>
+    <string name="no_weight_data">暂无体重记录，点击下方按钮添加</string>
+
+    <!-- 通知 -->
+    <string name="channel_name">断食提醒</string>
+    <string name="channel_desc">断食和进食时间结束提醒</string>
+    <string name="fasting_end_title">断食结束！</string>
+    <string name="fasting_end_text">16小时断食完成，可以开始进食了</string>
+    <string name="eating_end_title">进食窗口结束！</string>
+    <string name="eating_end_text">8小时进食时间结束，请开始新的断食</string>
+</resources>
